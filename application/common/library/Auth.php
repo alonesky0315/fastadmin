@@ -564,4 +564,4 @@ class Auth
     {
         return $this->_error ? __($this->_error) : '';
     }
-}
+}1
